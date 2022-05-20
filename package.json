@@ -1,0 +1,25 @@
+{
+  "name": "typescript-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc index.ts",
+    "build:watch": "tsc index.ts --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yash-2507/TypeScript-Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yash-2507/TypeScript-Assignment/issues"
+  },
+  "homepage": "https://github.com/yash-2507/TypeScript-Assignment#readme",
+  "dependencies": {
+    "typescript": "^4.6.4"
+  }
+}
